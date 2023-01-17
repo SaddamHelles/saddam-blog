@@ -15,7 +15,8 @@ const Hero = () => {
       </div>
       <h1>Hi, I'm Saddam</h1>
       <p>
-        I blog about web developer - especially frontend frameworks like React.
+        I blog about web developer - especially frontend frameworks like
+        ReactJS.
       </p>
     </section>
   );
